@@ -4,11 +4,13 @@ PLATAFORMA PARA GERENCIAMENTO DE DADOS DE DESEMPENHO SOCIOAMBIENTAL
 
 ###  **Seleção:**
 >> Seleção de pesquisa, ano e município;
+
 ![selection](https://github.com/VictorAndreoti/DesignPatterns/blob/master/selection.jpg) 
 
 
 ###  **Resultado da busca:**
 >> Valores resultado da pesquisa selecionada;
+
 ![result](https://github.com/VictorAndreoti/DesignPatterns/blob/master/result.jpg)                       
 
 
