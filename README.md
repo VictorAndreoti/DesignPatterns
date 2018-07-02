@@ -2,7 +2,7 @@
 
 PLATAFORMA PARA GERENCIAMENTO DE DADOS DE DESEMPENHO SOCIOAMBIENTAL
 
-![Screenshot](https://github.com/VictorAndreoti/DesignPatterns/blob/master/selection.jpg  | width=48)
+![Screenshot 50%](https://github.com/VictorAndreoti/DesignPatterns/blob/master/selection.jpg)
 
 ![Screenshot](https://github.com/VictorAndreoti/DesignPatterns/blob/master/result.jpg)
 
