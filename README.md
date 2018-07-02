@@ -8,6 +8,6 @@ https://github.com/VictorAndreoti/DesignPatterns/blob/master/result.jpg
 
 https://github.com/VictorAndreoti/DesignPatterns/blob/master/map.jpg
 
-DesignPatterns/padroes_de_projeto.jpg
+https://github.com/VictorAndreoti/DesignPatterns/blob/master/padroes_de_projeto.jpg
 
 
