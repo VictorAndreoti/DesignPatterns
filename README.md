@@ -6,6 +6,8 @@ PLATAFORMA PARA GERENCIAMENTO DE DADOS DE DESEMPENHO SOCIOAMBIENTAL
 
 ![result](https://github.com/VictorAndreoti/DesignPatterns/blob/master/result.jpg)                       
 
+
+### * **GoogleMaps:**
 ![map](https://github.com/VictorAndreoti/DesignPatterns/blob/master/map.jpg)
 
 ![diagram](https://github.com/VictorAndreoti/DesignPatterns/blob/master/padroes_de_projeto.jpg)
